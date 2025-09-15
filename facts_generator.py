@@ -10,6 +10,7 @@ def class_contributions():
 
         # Teacher contribution
         ("Ruud", "Ik ben getrouwd, maar woon niet samen."),
+        ("Josey", "Ik ben 35 jaar oud, getrouwd, woon in een losstaand huis én ik heb 3 kinderen.")
         
         # 👇 Students, add your entries here:
         ("Davit", "Ik ben een student")
